@@ -3,8 +3,8 @@ const boxes = document.querySelectorAll(".box");
 const images = document.querySelectorAll(".image");
 const status = document.getElementById("status");
 const imagesSrc = [
-    "imgs/facebook.png", "imgs/facebook.png",
-    "imgs/twitter.png", "imgs/twitter.png",
+    "imgs/chicken_1f414.png", "imgs/chicken_1f414.png",
+    "imgs/clown-face_1f921.png", "imgs/clown-face_1f921.png",
     "imgs/messenger.png", "imgs/messenger.png",
     "imgs/youtube.png", "imgs/youtube.png",
     "imgs/discord.png", "imgs/discord.png",
